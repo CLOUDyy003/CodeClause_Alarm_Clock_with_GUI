@@ -1,7 +1,8 @@
 # CodeClause_Alarm_Clock_with_GUI
 We'll use the Tkinter library, which is a built-in library for creating GUI applications in Python.
 
-The code will open a GUI window with a label, an entry field, and a button. Follow these steps to set an alarm:
+The code will open a GUI window with a label, an entry field, and a button. 
+Follow these steps to set an alarm:
 
 1. Run the Python script (alarm_clock.py).
 2. The GUI window will appear.
